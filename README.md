@@ -18,4 +18,16 @@ they sound grammatically and how they compare themselves with the standard
 essays out there. Our next step would be to create a neural net that is fed with a
 lot of essays which would eventually give it a score accordingly.
 
+Our main objective is to reduce both, time and manual labor which goes into the whole evaluation process.
+Instead of a human, this model corrects and grades these essays accordingly.
+
+To make the UI we have used an open source app framework called Streamlit. It is fast, easy
+and extremely user friendly! 
+
+//to launch the web App you need to enter "streamlit run <name of python file with .py extension>" in the command line.
+
+
+
+
+
  Made by Sathwik Acharya, Rahul Srinivas and Mahima Dubey 
